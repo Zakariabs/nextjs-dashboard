@@ -1,3 +1,4 @@
-export default function Page(){
-    return <p>Dashbord Page</p>;
-}
+export default function Page() {
+    return <p>Dashboard Page</p>;
+  }
+
